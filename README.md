@@ -31,7 +31,7 @@ grunt.initConfig({
       src: ['test/fixtures/*.html', 'test/fixtures/*.js'],
       css: ['test/fixtures/*.css'],
       dest: 'tmp/purestyles.css'
-    },
+    }
   },
 });
 ```
